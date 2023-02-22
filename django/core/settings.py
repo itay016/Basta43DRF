@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "account",
     "corsheaders",
+    "rest_framework_swagger",
 ]
 
 MIDDLEWARE = [
